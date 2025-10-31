@@ -1,4 +1,4 @@
-                                                           FULL STACK DEVELOPER
+  FULL STACK DEVELOPER
 
 1.	HTML (HyperText Markup Language) — язык разметки, который используется для создания и структурирования содержимого веб-страницы (заголовки, абзацы, ссылки и т.д.).
 
